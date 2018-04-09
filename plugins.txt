@@ -19,3 +19,8 @@ sidebar-link
 warnings
 workflow-aggregator
 ws-cleanup
+htmlpublisher
+test-stability
+envinject
+gitlab
+mask-passwords
